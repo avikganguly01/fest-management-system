@@ -1,0 +1,14 @@
+#insideblock{
+   overflow:visible !important;
+   min-height:340px;
+   margin: 40px !important;
+}
+
+#printblock{
+   overflow:visible !important;
+   text-align:center;
+   margin-left:30px !important;
+   margin-right:30px !important;	
+   margin-top:30px !important;
+   margin-bottom:30px !important;
+}
